@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -62,4 +63,86 @@
 .top-name{
     margin-bottom: 20px;
     margin-top: 20px;
+=======
+.selection-3{
+    display: flex;
+    width: 1300px;
+    height: 600px;
+        margin: 0 auto;
+}
+.s-right{
+    width: 50%;
+    height: 100%;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.s-left{
+    width: 50%;
+    height: 100%;
+    }
+.selection-3-p{
+    color: #18242a;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+position: relative;
+top: 40px;
+left: 40px;
+}
+.selection-3-h2{
+    color: #22343D;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+top: 30px;
+left: 40px;
+}
+.selection-3-h5{
+    color: #22343D;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+top: 30px;
+left: 40px;
+width: 456px;
+height: 78px;
+}
+.top-icon{
+    width: 420px;
+    height: 52px;
+        position: relative;
+    top: 25px;
+    left: 40px;
+    margin-top: 35px;
+    display: flex;
+}
+.selection-3-icon{
+    width: 35px;
+    height: 35px;
+    flex-shrink: 0;
+    position: relative;
+    top: 10px;
+}
+.selection-3-h6{
+    width: 345px;
+    height: 52px;
+        position: relative;
+    top: -40px;
+    left: 40px;
+    color: #1d2a31;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+>>>>>>> 8993c01ea451a3027451cba98ff406a79adb6b43
 }
