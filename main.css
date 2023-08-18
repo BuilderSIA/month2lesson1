@@ -7,7 +7,7 @@
 }
 header{
     width: 100%;
-    height: 100vh;
+    height: 500px;
     display: flex;
     justify-content: center;
 }
@@ -172,7 +172,7 @@ h4{
     width: 1300px;
     height: 600px;
     margin: 0 auto;
-    background: linear-gradient(179.59deg, #EDEDED 0.35%, rgba(255, 255, 255, 0.0001) 99.63%);
+    background:url(./images/Bg.png) -60px 180px no-repeat ;
        
 }
 .sec-one{
@@ -203,9 +203,9 @@ h4{
 }
 .sec-end{
     width: 150px;
-    height: 50px;
-    font-size: 15px;
-    font-weight: 700;
+    height: 45px;
+    font-size: 17px;
+    font-weight: 400;
     border-radius: 10px;
     margin: 40px 0px 150px 550px;
     margin-top: 100px;
