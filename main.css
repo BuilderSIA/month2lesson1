@@ -330,11 +330,11 @@ height: 78px;
     top: -40px;
     left: 40px;
     color: #1d2a31;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 26px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
 }
 
 
@@ -359,7 +359,194 @@ line-height: 26px;
 
 
 
+
+
+
+
+
+
+
+
+
+/* Section-5 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sect-five{
+    width: 1300px;
+    height: 500px;
+    margin: 0 auto;
+    background: url(./images/Bg2.png) -60px 0px no-repeat;
+   
+}
+.quick{
+    text-align: center;
+    position: relative;
+    top: 70px;
+    font-size: 40px;
+    color: #22343D;
+}
+.work-text{
+    text-align: center;
+    position: relative;
+    margin-top: 90px;
+    color: #18242a;
+}
+.All{
+    margin: -50px auto;
+}
+.avatar-photo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+}
+.avatar{
+    display: flex;
+    position: relative;
+    left: 250px;
+}
+.text-one{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 100px;
+    left: -450px;
+}
+.avatar-two{
+    display: flex;
+    position: relative;
+    left: 750px;
+    top: 50px;
+}
+.avayar-text2{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.avat-photo2{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 220px;
+
+}
+.avatar-photo3{
+    width: 50px;
+    height: 50px;
+    margin-left: 230px;
+    margin-top: 90px;
+}
+.text-three{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 105px;
+    left: 10px;
+}
+.avatar-thre{
+    position: relative;
+    top: 50px;
+    display: flex;
+    left: 250px;
+}
+.four-photo{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: -10px;
+}
+.text-four{
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    margin-left: 55px;
+    margin-top: 15px;
+
+}
+.avatar-four{
+    display: flex;
+    position: relative;
+    left: 750px;
+    gap: 20px;
+}
+.button-avatar{
+    width: 150px;
+    height: 38px;
+    color:#FFFFFF;
+    border: none;
+    background-color: #02897A;
+}
+.button-avatar{
+    margin: 150px 0 0 550px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Section-6 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .section6 {
