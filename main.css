@@ -359,6 +359,101 @@ line-height: 26px;
 
 
 
+/* Section-6 */
+
+
+.section6 {
+    max-width: 1300px;
+    margin: 100px auto;
+    padding: 40px;
+}
+
+.section6_title {
+    font-size: 34px;
+    font-weight: 700;
+    color: #22343D;
+    margin: 0 0 0 78px;
+}
+
+.section6_text {
+    font-style: 16px;
+    font-weight: 500;
+    color: #22343D;
+    margin: 10px 0 30px 80px;
+}
+
+.section6_wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.section6_box {
+    height: 380px;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 0 30px 0 0;
+}
+
+.section6_box-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: #22343D;
+    margin: 20px 0 0 20px;
+}
+
+span {
+    font-weight: 700;
+}
+
+.section6_box-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #22343D;
+    margin: 10px 0 0 20px;
+}
+
+.section6_dot-box {
+    width: 15px;
+    height: 15px;
+    background-color: #EFEFEF;
+    margin: 30px 10px 0 0;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
