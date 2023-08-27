@@ -148,7 +148,50 @@ nav{
 
 
 
+@media screen and (max-width:400px){
+    header{
+        margin-left: -20px;
+        width: 120%;
+    }
+    nav{
+        width: 100%;
+        box-shadow:0px 2px 0px #1d2a31;
+    }
+    .ul1{
+        margin-left: 0;
+    }
+    .ul1 li{
+        font-size: 200%;
+        font-weight:900;
+    }
+    .ul2{
+        display:none;
+    }
+    .elem{
+        margin-top: 200px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .part1 h1{
+        width: 300px;
+        text-align: center;
+        margin-left: -100px;
+    }
+    .elem .part2 img{
+        width: 300px;
 
+    }
+    .h4for-header{
+        font-size: larger;
+        text-align: center;
+        width: 300px;
+        margin-left: -100px;
+    }
+    .info{
+        width: 250px;
+        margin-left: -70px;
+    }
+}
 
 
 
@@ -248,7 +291,50 @@ nav{
 
 
 
+@media screen and (max-width:400px){
+    .section-one{
+        width: 100%;
+        height: 1900px;
+        background-size: contain;
+        background-position-x: center;
+        background-position-y: 1500px;
+        
+    }
+    .sec-one{
+        width: 100%;
+        display: block;
+    }
+    .name-one{
+        width: 300px;
+        text-align: center;
+        margin-left: -410px;
+        margin-top: 250px;
+    }
+    .main-boxes{
+        margin-top: 300px;
+        display: block;
+        width: 200px;
 
+    }
+    .main-box{
+        text-align: center;
+    }
+    .phto{
+        width: 60px;
+        height: 60px;
+    }
+    .photo{
+        width: 60px;
+        height: 60px;
+
+    }
+    .main-box img{
+        margin-top: 40px;
+    }
+    .sec-end{
+        margin: 50px 0px 50px 120px;
+    }
+}
 
 
 
@@ -287,7 +373,7 @@ nav{
     
 }
 .dashed{
-    width: 1300px;
+    width: 100%;
     height: 473px;
     /* border: dashed aqua; */
     display: flex;
@@ -354,6 +440,33 @@ h5 {
 
 
 
+
+
+
+
+
+
+
+
+@media screen and (max-width:400px){
+    .section-two{
+        width: 100%;
+        /* margin-top: 1100px; */
+        .dashed{
+            width: 350px;
+            display: flex;
+            flex-direction: column-reverse;
+            
+    }
+    .dashed img{
+        width: 330px;
+        margin-bottom: 50px;
+    }
+    .lesson{
+        width: 350px;
+    }
+}
+}
 
 
 
@@ -475,6 +588,63 @@ height: 78px;
 
 
 
+@media screen and (max-width:400px){
+    .selection-3{
+        width: 100%;
+        display: block;
+        height: 1300px;
+    }
+    .s-right{
+        width: 100%;
+        height:400px;
+    }
+    .s-left{
+        width: 100%;
+        height: 400px;
+    }
+    .selection-3-img{
+        width: 330px;
+    }
+    .top-icon{
+        margin-left: 0;
+        width: 330px;
+        height: 100px;
+    }
+    .selection-3-h6{
+        position: unset;
+        margin-left: 30px;
+    }
+    .selection-3-h5{
+        width: 350px;
+        position: unset;
+        margin-left: 20px;
+
+    }
+    .selection-3-h2{
+        position: unset;
+        margin-left: 20px;
+    }
+    .selection-3-p{
+        position: unset;
+        margin-left: 20px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
 /* Section-4 */
 
 
@@ -571,7 +741,28 @@ h5 {
 
 
 
-
+@media screen and (max-width:400px){
+    .section-four{
+        width: 100%;
+        height: 500px;
+        
+        
+    }
+    .dashed{
+        width: 390px;
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+    .dashed img{
+        width: 350px;
+    }
+    .lesson{
+        margin-left: 30px;
+        width: 345px;
+        
+    }
+}
 
 
 
@@ -762,6 +953,112 @@ h5 {
 
 
 
+@media screen and (max-width:400px){
+    .sect-five{
+        width: 100%;
+        height: 1000px;
+        background-size: contain;
+        background-position-x: 0px;
+        background-position-y: 0px;
+        display: block;
+        
+    }
+    .All{
+        position: unset;
+    }
+    .quick{
+        width: 100%;
+        height: 20%;
+        position: unset;
+        margin-top: 50px;
+        display: flex;
+        align-items: end;
+    }
+    .work-text{
+        position: unset;
+    }
+    .All img{
+        position: unset;
+    }
+    .avatar{
+        display: block;
+        position:unset;
+        margin-left: 30px;
+    }
+    .avatar img{
+        margin-top: 100px;
+    }
+    .text-one{
+        left: 0;
+        top: -50px;
+    }
+    .avatar-two{
+        position: unset;
+        left: 0;
+
+        margin-left: 30px;
+
+    }
+    .avatar-thre{
+        margin: 0;
+        width: 150px;
+        left: 0;
+        position: unset;
+        .text-three{
+            width: 100px;
+            position: unset;
+            margin-left: 30px;
+            margin-right: 0;
+            margin-top: 50px;
+            text-align: unset;
+    
+        }
+        .avatar-photo3{
+            margin-left: 170px;
+            margin-top: 90px;
+        }
+    }
+    
+    .avatar-four{
+        margin-top: 50px;
+        left: 0;
+        position: unset;
+    }
+    .text-four{
+        position: unset;
+    }
+    .avatar-four img{
+        position: unset;
+    }
+    .avatar-two img{
+        position: unset;
+    }
+    .button-avatar{
+        margin: 100px 0 0 100px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Section-6 */
 
 
@@ -844,6 +1141,47 @@ span {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:400px){
+    .section6{
+        width: 100%;
+    }
+    .section6_title{
+        width: 350px;
+        margin-left: 0;
+    }
+    .section6_text{
+        width: 350px;
+        margin-left: 0px;
+    }
+    .section6_wrapper{
+        display: block;
+    }
+    .section6_box img{
+        width: 320px;
+    }
+    .section6_dot-box{
+        display: none;
+    }
+}
 
 
 
@@ -1095,7 +1433,16 @@ span {
 
 
 
-
+@media screen and (max-width:400px){
+    .price-table{
+        width: 100%;
+        height: 1350px;
+    }
+    .tables{
+        display: block;
+        margin-left: 0px;
+    }
+}
 
 
 
@@ -1172,6 +1519,55 @@ body{
 .h-1{
     color: #02897A;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:400px){
+    .sec-8{
+        width: 100%;
+        height: 1000px;
+    }
+    .block-2{
+        display: block;
+        margin-left: 0;
+    }
+    .blocks-1{
+        margin-top: 25px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1274,6 +1670,53 @@ body{
     font-weight: 650;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:400px) {
+    .sec-9{
+        width:450px;
+        height: 1100px;
+        display: block;
+        margin-left: 0;
+    }
+    .sec-9-container{
+        width: 350px;
+        display: block;
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    .sec-9-cont-left{
+        width: 300px;
+        text-align: center;
+    }
+    .join-text{
+        margin-left: 0;
+    }
+    .getthisbtn{
+        width: 170px;
+        margin-left: 30px;
+    }
+    .sec-9-cont-right{
+        margin-top: -350px;
+    }
+}
 
 
 
@@ -1404,3 +1847,60 @@ footer p{
 .rightsreserved{
     font-size: small;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:400px) {
+    footer{
+        width: 100%;
+        height: 800px;
+    }
+    .foot-container{
+        width: 100%;
+
+    }
+    .cont-top{
+        height: 700px;
+        display: block;
+    }
+    .logo-social{
+        width: 200px;
+        height: 80px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .recourse{
+        width: 300px;
+        text-align: center;
+    }
+    .recourse h4{
+        margin-top: 0;
+    }
+    .legalstuff{
+        width: 300px;
+        text-align: center;
+    }
+    .signbtn{
+        width: 350px;
+        text-align: center;
+    }
+    .forsignonbtm{
+        margin-right: 0;
+    }
+}
+
